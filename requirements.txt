@@ -1,0 +1,6 @@
+flask
+gunicorn
+httpx[http2]
+loguru
+orjson
+pydantic
